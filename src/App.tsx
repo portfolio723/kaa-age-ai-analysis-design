@@ -57,7 +57,7 @@ export default function App() {
           </svg>
         </div>
         <span className="text-sm font-semibold" style={{ color: '#151B40', fontWeight: 600 }}>
-          DentalAI
+          KAA Dental
         </span>
       </div>
 
