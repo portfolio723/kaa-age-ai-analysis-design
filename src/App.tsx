@@ -53,7 +53,7 @@ export default function App() {
           style={{ backgroundColor: '#151B40' }}
         >
           <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-            <path d="M8 1.5C4.41 1.5 1.5 4.41 1.5 8c0 1.74.65 3.32 1.72 4.52L4.5 11.5c.83.83 2.18.83 3 0l.5-.5.5.5c.83.83 2.18.83 3 0l1.28 1.02C13.85 11.32 14.5 9.74 14.5 8c0-3.59-2.91-6.5-6.5-6.5z" fill="white" opacity="0.9"/>
+            <a target="_blank" href="https://icons8.com/icon/9557/tooth">Teeth</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
           </svg>
         </div>
         <span className="text-sm font-semibold" style={{ color: '#151B40', fontWeight: 600 }}>
